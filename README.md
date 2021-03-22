@@ -10,9 +10,15 @@
 ```python
 print("hello world")
 ```
-- If the outcome is Hello world that means everything is working fine
+- If, the outcome is Hello world that means everything is working fine.
 
 ### .gitignore to ignore files/ folders that we don't want to send to github
-- create a file called ```
+- create a file called 
+```
 .gitignore
 ```
+ To add comments to python code use 
+ ``` # ```
+ 
+- What is a variable?
+Variables work as a placeholder
